@@ -75,13 +75,13 @@ No external dependencies required
 Contributing 🤝
 Contributions are welcome! Please open an issue or submit a pull request for any:
 
-Bug fixes
+. Bug fixes
 
-Additional password checks
+. Additional password checks
 
-Improved entropy calculations
+. Improved entropy calculations
 
-UI enhancements
+. UI enhancements
 
 License 📄
 This project is licensed under the MIT License - see the LICENSE file for details.
@@ -89,8 +89,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Security Note 🔐
 This tool:
 
-Does not store or log any passwords
+. Does not store or log any passwords
 
-Runs entirely locally on your machine
+. Runs entirely locally on your machine
 
-Is for educational purposes only
+. Is for educational purposes only
