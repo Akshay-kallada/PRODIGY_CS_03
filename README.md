@@ -31,7 +31,7 @@ A Python-based tool that evaluates password strength using multiple criteria and
 1. Ensure you have Python 3.6+ installed
 2. Clone this repository:
    ```bash
-   git clone https://github.com/Akshay-kallada/password-strength-assessor.git
+   git clone https://github.com/Akshay-kallada/PRODIGY_CS_03.git
 
    Navigate to the project directory:
    cd password-strength-assessor
